@@ -7,7 +7,7 @@
     <div id="education" class="flex flex-col">
       <h4 id="header" class="font-bold mb-2">education</h4>
       <h3 id="school" class="">Northwestern University</h3>
-      <h6 id="major" class="">Computer Science, Learning Sciences (B.S.)</h6>
+      <h6 id="major" class="">Neuroscience (Pre-Med) (B.A.)</h6>
     </div>
     <div id="button-container" class="flex w-full justify-end pr-4">
       <a target="_blank" href="../../assets/resumes/resume.pdf" id="resume" class="bg-black flex items-center justify-center w-fit px-4 py-1 rounded-xl">
